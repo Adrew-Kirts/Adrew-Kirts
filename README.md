@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, SASS, Java and more to come..!<br>
+🌱 I’m currently learning HTML, CSS, SASS, Java, JavaScript and more to come..!<br>
 
 
 ## 🌐 Socials:
