@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning HTML, CSS, SASS, Java, JavaScript and more to come..!<br>
+🌱 I’m currently learning HTML, CSS, SASS, JavaScript, Python, Java and more to come..!<br>
 
 
 ## 🌐 Socials:
@@ -12,4 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adrew-Kirts&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrew-Kirts&theme=blue-green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
