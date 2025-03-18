@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning web and application development, Python, Java and more to come..! 🚀<br>
+🌱 I’m currently working at Webmecanik 🚀<br>
 
 
 ## 🌐 Socials:
@@ -18,6 +18,5 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Adrew-Kirts&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adrew-Kirts&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrew-Kirts&theme=blue-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
